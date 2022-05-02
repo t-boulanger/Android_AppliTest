@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppliTest</string>
+    <string-array name="niveau">
+        <item>Bac</item>
+        <item>Bac+2</item>
+        <item>Bac+3</item>
+        <item>Bac+5</item>
+    </string-array>
+
+</resources>
